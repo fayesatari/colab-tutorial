@@ -12,6 +12,8 @@ We covered the following subjects in this file:
 - OpenAI gym Sample and Forms & Tables Sample
 
 You can see the file related to the next part in this path: https://github.com/sadiakhaf/IEEE-Hands-On-RL-using-Python
+
 Also you cansee recorde of the workshop in this path: https://youtu.be/TlGfBWdL01s
+
 More information: https://site.ieee.org/montreal-yp/events/2021-hands-on-reinforcement-learning-workshop-using-python/
 

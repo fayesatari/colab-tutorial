@@ -1,10 +1,11 @@
-# IEEE_Hands_On_RL_using_Python
+# Google Colaboratory plus Reinforcement Learning using Python
 
-This Notebooke is provided for a workshop helded by IEEE Young Professionals Montreal in 23 March 2021 in two part. In first step we covered the basics of using Colab and in the seconde part we covered an introduction to reinforcement learning, and write Q-learning code.
+This Google Colab Notebook is provided for a workshop held by IEEE Young Professionals Montreal on 23 March 2021 in two-part. 
+In the first step, we covered the basics of using Colab, and in the second part, we covered an introduction to reinforcement learning and wrote Q-learning code.
 This notebooke is covered the first part by this subjects: 
-
 We covered the following subjects in this file:
 
+# IEEE Hands on RL using Python
 - Introduction to Colab, creating your first notebook, settings, GPU usage, themes
 - Mounting Google Drive to Colab, uploading and accessing files from drive
 - Importing different libraries in Colab, like Numpy, Tensorflow, PyTorch, Pandas, installing missing libraries such as OpenAI gym

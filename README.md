@@ -1,4 +1,4 @@
-# Google Colaboratory plus Reinforcement Learning using Python
+# Google Colaboratory, Reinforcement Learning using Python
 
 This Google Colab Notebook is provided for a workshop held by IEEE Young Professionals Montreal on 23 March 2021 in two-part. 
 In the first step, we covered the basics of using Colab, and in the second part, we covered an introduction to reinforcement learning and wrote Q-learning code.

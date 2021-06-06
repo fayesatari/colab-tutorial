@@ -5,6 +5,8 @@ In the first step, we covered the basics of using Colab, and in the second part,
 This notebooke is covered the first part by this subjects: 
 We covered the following subjects in this file:
 
+[![Google Colaboratory, Reinforcement Learning using Python](https://img.youtube.com/vi/TlGfBWdL01s/0.jpg)](https://www.youtube.com/embed/TlGfBWdL01s?start=3988)
+
 # IEEE Hands on RL using Python
 - Introduction to Colab, creating your first notebook, settings, GPU usage, themes
 - Mounting Google Drive to Colab, uploading and accessing files from drive

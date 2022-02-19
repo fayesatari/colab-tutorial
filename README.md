@@ -1,11 +1,11 @@
-# Google Colaboratory, Reinforcement Learning using Python
+# Get started with Python in Google Colab
 
-This Google Colab Notebook is provided for a workshop held by IEEE Young Professionals Montreal on 23 March 2021 in two-part. 
+This Google Colab Notebook is provided for a workshop held by IEEE Young Professionals, "Google Colaboratory, Reinforcement Learning using Python" @ Montreal on 23 March 2021 in two-part. 
 In the first step, we covered the basics of using Colab, and in the second part, we covered an introduction to reinforcement learning and wrote Q-learning code.
 This notebooke is covered the first part by this subjects: 
 We covered the following subjects in this file:
 
-[![Google Colaboratory, Reinforcement Learning using Python](https://img.youtube.com/vi/TlGfBWdL01s/0.jpg)](https://www.youtube.com/embed/TlGfBWdL01s?start=3988)
+<a alt="Google Colaboratory, Reinforcement Learning using Python" href="https://www.youtube.com/embed/TlGfBWdL01s?start=3988" width="66%"><img src="https://user-images.githubusercontent.com/71412070/154816849-cb3563d6-fbc2-4de0-8e78-992049807b39.png" alt="_blank" /></a>
 
 # IEEE Hands on RL using Python
 - Introduction to Colab, creating your first notebook, settings, GPU usage, themes
